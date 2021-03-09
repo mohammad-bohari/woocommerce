@@ -831,6 +831,12 @@ body {
   margin-top: 5%;
   padding: 30px 39px;
 }
+
+.slider-cards .slider-two,
+.slider-cards .slider-three {
+  position: absolute;
+}
+
 .slider img {
   position: relative;
   z-index: 1;
